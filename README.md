@@ -5,4 +5,8 @@ file Index
 -----------
 <br>1)ML Model.ipynb- ipynb file containing entire data model</br>
 <br>2)index.html - HTML file of UI</br>
-<br>3)app.py - </br>
+<br>3)app.py - python file linking the IBM cloud deployment with the User Interface </br>
+
+Video link
+-------------
+https://youtu.be/KcoMQ6q1TYM
